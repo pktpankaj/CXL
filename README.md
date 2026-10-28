@@ -22,7 +22,7 @@ This portfolio brings together 11 completed CXL courses, organised around the sk
 
 Understanding customer behaviour, choosing product metrics, reading reports and organising tracking. Connecting measurement to the decisions a marketing team needs to make.
 
-**Learning:**Attribution · Google Analytics · Google Tag Manager · Product analytics
+**Learning:** Attribution · Google Analytics · Google Tag Manager · Product analytics
 
 </td>
 <td width="50%" valign="top">
@@ -31,7 +31,7 @@ Understanding customer behaviour, choosing product metrics, reading reports and 
 
 Setting objectives, planning work, managing budgets and helping teams stay focused. Turning a marketing goal into a process with clear responsibilities and measurable outcomes.
 
-**Learning:**Marketing management · Project Management for Marketers
+**Learning:** Marketing management · Project Management for Marketers
 
 </td>
 </tr>
@@ -42,7 +42,7 @@ Setting objectives, planning work, managing budgets and helping teams stay focus
 
 Bringing branding principles into communication, building search-led editorial plans and improving email programmes through content and analysis.
 
-**Learning:**Branding · Email marketing · SEO driven editorial calendar
+**Learning:** Branding · Email marketing · SEO driven editorial calendar
 
 </td>
 <td width="50%" valign="top">
@@ -51,7 +51,7 @@ Bringing branding principles into communication, building search-led editorial p
 
 Shaping service offers, pricing work, managing client relationships and organising delivery. Understanding the commercial and operational side of conversion optimisation services.
 
-**Learning:**Building a marketing agency · CRO agency masterclass
+**Learning:** Building a marketing agency · CRO agency masterclass
 
 </td>
 </tr>
