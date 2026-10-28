@@ -1,16 +1,16 @@
-![Pankaj Thakur — Analytics, strategy and marketing leadership](./assets/skills-banner.svg)
+![Pankaj Thakur — Clear strategy. Measurable marketing.](./assets/portfolio-hero.gif)
 
 # Analytics, strategy & marketing leadership
 
 **Pankaj Thakur · Skills portfolio · CXL course certificates**
 
-I combine marketing judgement with an analytical approach: understand the problem, define a useful measure and turn the findings into a clear plan. My interests span how customers behave, how teams deliver and how marketing services create value.
+I help turn marketing questions into clear plans, useful measurement and organised delivery. My focus connects customer behaviour, content, team operations and the commercial side of marketing services.
 
 This portfolio brings together 11 completed CXL courses, organised around the skills they support. Each certificate is available to inspect alongside a concise summary of its subject.
 
-[Explore skills](#skills-at-a-glance) · [Browse certificates](#certificate-library) · [View previews](#certificate-previews) · [Connect on LinkedIn](https://www.linkedin.com/in/pankajvnt/)
+[Explore skills](#skills-at-a-glance) · [How I work](#how-i-work) · [Where I can help](#where-i-can-help) · [Browse certificates](#certificate-library) · [View previews](#certificate-previews) · [Connect on LinkedIn](https://www.linkedin.com/in/pankajvnt/)
 
----
+![Moving green, purple and coral markers connecting the portfolio sections](./assets/section-flow.gif)
 
 ## Skills at a glance
 
@@ -18,7 +18,7 @@ This portfolio brings together 11 completed CXL courses, organised around the sk
 <tr>
 <td width="50%" valign="top">
 
-### 01 / Analytics & measurement
+![01 / Analytics & measurement](./assets/analytics-card.svg)
 
 Understanding customer behaviour, choosing product metrics, reading reports and organising tracking. Connecting measurement to the decisions a marketing team needs to make.
 
@@ -27,7 +27,7 @@ Understanding customer behaviour, choosing product metrics, reading reports and 
 </td>
 <td width="50%" valign="top">
 
-### 02 / Marketing leadership & delivery
+![02 / Marketing leadership & delivery](./assets/leadership-card.svg)
 
 Setting objectives, planning work, managing budgets and helping teams stay focused. Turning a marketing goal into a process with clear responsibilities and measurable outcomes.
 
@@ -38,7 +38,7 @@ Setting objectives, planning work, managing budgets and helping teams stay focus
 <tr>
 <td width="50%" valign="top">
 
-### 03 / Brand, content & email
+![03 / Brand, content & email](./assets/content-card.svg)
 
 Bringing branding principles into communication, building search-led editorial plans and improving email programmes through content and analysis.
 
@@ -47,7 +47,7 @@ Bringing branding principles into communication, building search-led editorial p
 </td>
 <td width="50%" valign="top">
 
-### 04 / Agency & CRO service delivery
+![04 / Agency & CRO service delivery](./assets/agency-card.svg)
 
 Shaping service offers, pricing work, managing client relationships and organising delivery. Understanding the commercial and operational side of conversion optimisation services.
 
@@ -57,7 +57,32 @@ Shaping service offers, pricing work, managing client relationships and organisi
 </tr>
 </table>
 
-## How these skills connect
+## How I work
+
+![Four connected steps: understand, plan, deliver and review](./assets/working-process.gif)
+
+**Understand the question.** Clarify the audience, the business problem and the evidence already available.
+
+**Plan the work.** Agree the goal, the measure, the responsibilities and the order of delivery.
+
+**Deliver with focus.** Build the report, editorial plan, email programme or delivery process around that goal.
+
+**Review and improve.** Use results and feedback to decide what deserves attention next.
+
+![Animated transition between process and offerings](./assets/section-flow.gif)
+
+## Where I can help
+
+These are areas I can contribute to, grounded in the learning documented below.
+
+| Area of support | What the work can include |
+| --- | --- |
+| **🟢 Marketing measurement** | A measurement brief, reporting questions, tracking requirements and a review of attribution assumptions. |
+| **🟣 Team and project delivery** | Objectives, responsibilities, a campaign plan and a practical review cadence. |
+| **🟠 Content and email planning** | An editorial calendar, email improvement priorities and measures for evaluating performance. |
+| **🟡 Agency and CRO service design** | Offer structure, project scope, pricing considerations and a client kickoff plan. |
+
+### How the skills connect
 
 | Practical focus | What I bring to the work |
 | --- | --- |
@@ -67,6 +92,8 @@ Shaping service offers, pricing work, managing client relationships and organisi
 | Plan content with purpose | Translate search priorities into a usable editorial calendar. |
 | Improve email performance | Review list growth, content and results to guide improvements. |
 | Structure service engagements | Clarify the offer, price, kickoff process and expectations for delivery. |
+
+![Animated transition into the certificate library](./assets/section-flow.gif)
 
 ## Certificate library
 
