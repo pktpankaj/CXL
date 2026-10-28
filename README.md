@@ -1,4 +1,4 @@
-![Pankaj Thakur — Clear strategy. Measurable marketing.](./assets/portfolio-hero.gif)
+![Pankaj Thakur — Clear strategy. Measurable marketing.](./assets/editorial-header.svg)
 
 # Analytics, strategy & marketing leadership
 
@@ -10,7 +10,7 @@ This portfolio brings together 11 completed CXL courses, organised around the sk
 
 [Explore skills](#skills-at-a-glance) · [How I work](#how-i-work) · [Where I can help](#where-i-can-help) · [Browse certificates](#certificate-library) · [View previews](#certificate-previews) · [Connect on LinkedIn](https://www.linkedin.com/in/pankajvnt/)
 
-![Moving green, purple and coral markers connecting the portfolio sections](./assets/section-flow.gif)
+---
 
 ## Skills at a glance
 
@@ -18,40 +18,40 @@ This portfolio brings together 11 completed CXL courses, organised around the sk
 <tr>
 <td width="50%" valign="top">
 
-![01 / Analytics & measurement](./assets/analytics-card.svg)
+![01 / Analytics & measurement](./assets/analytics-editorial.svg)
 
 Understanding customer behaviour, choosing product metrics, reading reports and organising tracking. Connecting measurement to the decisions a marketing team needs to make.
 
-**Learning:** Attribution · Google Analytics · Google Tag Manager · Product analytics
+**Learning:**Attribution · Google Analytics · Google Tag Manager · Product analytics
 
 </td>
 <td width="50%" valign="top">
 
-![02 / Marketing leadership & delivery](./assets/leadership-card.svg)
+![02 / Marketing leadership & delivery](./assets/leadership-editorial.svg)
 
 Setting objectives, planning work, managing budgets and helping teams stay focused. Turning a marketing goal into a process with clear responsibilities and measurable outcomes.
 
-**Learning:** Marketing management · Project Management for Marketers
+**Learning:**Marketing management · Project Management for Marketers
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-![03 / Brand, content & email](./assets/content-card.svg)
+![03 / Brand, content & email](./assets/content-editorial.svg)
 
 Bringing branding principles into communication, building search-led editorial plans and improving email programmes through content and analysis.
 
-**Learning:** Branding · Email marketing · SEO driven editorial calendar
+**Learning:**Branding · Email marketing · SEO driven editorial calendar
 
 </td>
 <td width="50%" valign="top">
 
-![04 / Agency & CRO service delivery](./assets/agency-card.svg)
+![04 / Agency & CRO service delivery](./assets/agency-editorial.svg)
 
 Shaping service offers, pricing work, managing client relationships and organising delivery. Understanding the commercial and operational side of conversion optimisation services.
 
-**Learning:** Building a marketing agency · CRO agency masterclass
+**Learning:**Building a marketing agency · CRO agency masterclass
 
 </td>
 </tr>
@@ -59,7 +59,7 @@ Shaping service offers, pricing work, managing client relationships and organisi
 
 ## How I work
 
-![Four connected steps: understand, plan, deliver and review](./assets/working-process.gif)
+![Four connected steps: understand, plan, deliver and review](./assets/editorial-process.gif)
 
 **Understand the question.** Clarify the audience, the business problem and the evidence already available.
 
@@ -69,7 +69,7 @@ Shaping service offers, pricing work, managing client relationships and organisi
 
 **Review and improve.** Use results and feedback to decide what deserves attention next.
 
-![Animated transition between process and offerings](./assets/section-flow.gif)
+---
 
 ## Where I can help
 
@@ -77,10 +77,10 @@ These are areas I can contribute to, grounded in the learning documented below.
 
 | Area of support | What the work can include |
 | --- | --- |
-| **🟢 Marketing measurement** | A measurement brief, reporting questions, tracking requirements and a review of attribution assumptions. |
-| **🟣 Team and project delivery** | Objectives, responsibilities, a campaign plan and a practical review cadence. |
-| **🟠 Content and email planning** | An editorial calendar, email improvement priorities and measures for evaluating performance. |
-| **🟡 Agency and CRO service design** | Offer structure, project scope, pricing considerations and a client kickoff plan. |
+| **Marketing measurement**| A measurement brief, reporting questions, tracking requirements and a review of attribution assumptions. |
+| **Team and project delivery**| Objectives, responsibilities, a campaign plan and a practical review cadence. |
+| **Content and email planning**| An editorial calendar, email improvement priorities and measures for evaluating performance. |
+| **Agency and CRO service design**| Offer structure, project scope, pricing considerations and a client kickoff plan. |
 
 ### How the skills connect
 
@@ -93,27 +93,27 @@ These are areas I can contribute to, grounded in the learning documented below.
 | Improve email performance | Review list growth, content and results to guide improvements. |
 | Structure service engagements | Clarify the offer, price, kickoff process and expectations for delivery. |
 
-![Animated transition into the certificate library](./assets/section-flow.gif)
+---
 
 ## Certificate library
 
-The titles below link to the original images. Dates are transcribed from the certificate records; summaries describe the course subjects rather than results from client work.
+The titles below link to the original images. Summaries describe the course subjects rather than results from client work.
 
-| Completed course | Awarded | Subject focus |
-| --- | --- | --- |
-| [Attribution](./Attribution.png) | 19 Feb 2022 | Understanding marketing data and customer behaviour to inform decisions |
-| [Google Analytics for beginners](./Google%20Analytics%20for%20beginners.png) | 17 Feb 2022 | Analytics foundations, reports, goals, segmentation and data analysis |
-| [Google Tag Manager for beginners](./Google%20Tag%20Manager%20for%20beginners.png) | 18 Feb 2022 | Tracking-script deployment, tag organisation and measurement foundations |
-| [Product analytics](./Product%20analytics.png) | 19 Feb 2022 | Product metrics, user segments, spreadsheet analysis and basic MySQL queries |
-| [Marketing management](./Marketing%20management.png) | 19 Feb 2022 | Objectives, project planning, budgets, conflict resolution and team onboarding |
-| [Project Management for Marketers](./Project%20Management%20for%20Marketers.png) | 20 Feb 2022 | Campaign processes, team focus, clear goals and measurable delivery |
-| [Branding](./Branding.png) | 20 Feb 2022 | Branding principles |
-| [Email marketing](./Email%20marketing.png) | 21 Feb 2022 | List growth, email content, performance analysis and return on email investment |
-| [SEO driven editorial calendar](./SEO%20driven%20editorial%20calendar.png) | 20 Feb 2022 | Building a practical editorial calendar around search and content priorities |
-| [Building a marketing agency](./Building%20a%20marketing%20agency.png) | 21 Feb 2022 | Principles of agency growth and scaling a service business |
-| [CRO agency masterclass](./CRO%20agency%20masterclass.png) | 18 Feb 2022 | CRO service positioning, pricing, productised offers and client-project delivery |
+| Completed course | Subject focus |
+| --- | --- |
+| [Attribution](./Attribution.png) | Understanding marketing data and customer behaviour to inform decisions |
+| [Google Analytics for beginners](./Google%20Analytics%20for%20beginners.png) | Analytics foundations, reports, goals, segmentation and data analysis |
+| [Google Tag Manager for beginners](./Google%20Tag%20Manager%20for%20beginners.png) | Tracking-script deployment, tag organisation and measurement foundations |
+| [Product analytics](./Product%20analytics.png) | Product metrics, user segments, spreadsheet analysis and basic MySQL queries |
+| [Marketing management](./Marketing%20management.png) | Objectives, project planning, budgets, conflict resolution and team onboarding |
+| [Project Management for Marketers](./Project%20Management%20for%20Marketers.png) | Campaign processes, team focus, clear goals and measurable delivery |
+| [Branding](./Branding.png) | Branding principles |
+| [Email marketing](./Email%20marketing.png) | List growth, email content, performance analysis and return on email investment |
+| [SEO driven editorial calendar](./SEO%20driven%20editorial%20calendar.png) | Building a practical editorial calendar around search and content priorities |
+| [Building a marketing agency](./Building%20a%20marketing%20agency.png) | Principles of agency growth and scaling a service business |
+| [CRO agency masterclass](./CRO%20agency%20masterclass.png) | CRO service positioning, pricing, productised offers and client-project delivery |
 
-<sub>The stored records state that these credentials do not expire. Course titles and dates are retained as awarded; the beginner analytics courses are not presented as GA4 certification or evidence of current platform-specific training.</sub>
+<sub>The stored records state that these credentials do not expire. Course titles are retained as awarded; the beginner analytics courses are not presented as GA4 certification or evidence of current platform-specific training.</sub>
 
 ## Certificate previews
 
